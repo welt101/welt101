@@ -1,4 +1,4 @@
-Moved to @adrianschubek
+⚠️ Moved to https://github.com/adrianschubek
 
 <!---
 welt101/welt101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
